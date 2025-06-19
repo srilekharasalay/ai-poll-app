@@ -36,7 +36,7 @@ def get_sheet_data():
     return pd.DataFrame(data)
 
 # App UI
-st.title("🚀 AI Tools Poll with Live Results")
+st.title("🚀 AI Tools Poll")
 
 st.write("We are gathering your feedback on the best AI tools to improve efficiency, speed, and accuracy. Please vote and share your suggestions!")
 
